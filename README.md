@@ -79,7 +79,7 @@ Powder XRD VA 1.0.0/
 └── Powder_XRD_VA.exe      # Standalone .exe file
 ```
 
-3. **Run the .exe file**
+3. **Run the `.exe` file**
 4. **Open the plots in the plots folder**
 
 
