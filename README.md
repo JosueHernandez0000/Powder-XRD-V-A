@@ -111,13 +111,14 @@ Powder XRD VA 1.0.0/
 - Handling closely spaced peaks (less than instrument resolution) can be challenging.
 - Limited support for asymmetric or skewed peaks outside of Pseudo-Voigt modeling.
 - Fixed axis from 10 to 90 degrees.
+- Only supports `.xy` files. 
 
 
 ### Potential Enhancements
-
+The following features may come in a future release:
 - Let the user fine-tune parameters of the analysis
 - Dynamically detect scan range and scale axis accordingly
-
+- Support `.csv` files
 ---
 
 ## 7. Contribution
