@@ -13,9 +13,8 @@ This repository packs more than **1 000 lines of python code** into a standalone
 4. [How to Use](#how-to-use)
 5. [Technical Details](#technical-details)
 6. [Limitations and Areas for Improvement](#limitations-and-areas-for-improvement)
-7. [Contribution](#contribution)
+7. [Contact](#contact)
 8. [License](#license)
-9. [Contact](#contact)
 
 ---
 ## 2. Functionality
@@ -119,11 +118,11 @@ The following features may come in a future release:
 - Let the user fine-tune parameters of the analysis
 - Dynamically detect scan range and scale axis accordingly
 - Support `.csv` files
----
 
-## 7. Contribution
 
-Contributions, feature requests, and bug reports are welcome. Please open an issue or submit a pull request.
+## 7. Contact
+
+For questions, feature requests, bug reports, or collaboration opportunities, please contact the developer.
 
 ---
 
@@ -133,6 +132,4 @@ This project is licensed under the MIT License — see the `LICENSE` file for de
 
 ---
 
-## 9. Contact
 
-For questions, feature requests, or collaboration opportunities, please contact the developer.
