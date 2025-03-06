@@ -1,5 +1,5 @@
 # XRD Data Analysis 
-# Automated, fast and simple
+# Automated-Fast-Simple
 
 
 ## Overview
@@ -24,7 +24,7 @@ This repository contains a Python-based standalone executable for analyzing powd
 3. **Plots XRD with selected reference patterns**: Plots a selected reference pattern in the same plot as the sample XRD for a quick comparison. 
 4. **Peak identification**: Automatically detects main peaks in the diffractogram.
 5. **Peak deconvolution**: Performs a peak deconvolution around each major peak to identify any overlapping peaks.
-6. **FWHM calculation** : Calculates the Full Width at Half Maximum (FWHM) of each epak in the diffractogram.
+6. **FWHM calculation**: Calculates the Full Width at Half Maximum (FWHM) of each epak in the diffractogram.
 
 ## 3. Main Outputs
 The code is meant to be a quick and easy way to plot and visualize experimental XRD data. The main outputs of the program are the following plots:
@@ -58,8 +58,8 @@ The code is meant to be a quick and easy way to plot and visualize experimental 
 
 ## 4. How to Use
 Follow these steps to use the software:
-1. **Clone the repository to your own machine**
-2. **Make sure the following foler structure is followed**:
+1. **Clone the repository to your machine**
+2. **Make sure the following folder structure is followed**:
 ```
 Powder XRD VA 1.0.0/
 ├── reference_patterns/  
@@ -85,7 +85,7 @@ Powder XRD VA 1.0.0/
 
 ## 5. Technical Details
 ### Reference patterns 
-- The crystallographic information (peak position, peak intensity and miller indices) of the current reference pattern is stored in `reference_patterns.xlsx`. Information was obtained from the Crystallographic Open Database. You can add more reference patterns by simply:
+- The crystallographic information (peak position, peak intensity and miller indices) of the current reference patterns is stored in `reference_patterns.xlsx`. Information was obtained from the Crystallographic Open Database. You can add more reference patterns by simply:
    - Create a new sheet in the Excel file
    - Rename the sheet to match the name of your reference patterns
    - Fill in the Excel sheet with the crystallographic information (please follow the same structure and column names as in the current file). 
@@ -107,14 +107,14 @@ Powder XRD VA 1.0.0/
 ## 6. Limitations and Areas for Improvement
 
 ### Current Limitations
-- Peak deconvolution may fail if data is too noisy (usually the case in low intensity peaks)
-- Handling of very closely spaced peaks (less than instrument resolution) can be challenging.
+- Peak deconvolution may fail if data is too noisy or peak is too close to the noise level (usually the case in low intensity peaks)
+- Handling closely spaced peaks (less than instrument resolution) can be challenging.
 - Limited support for asymmetric or skewed peaks outside of Pseudo-Voigt modeling.
 
 
 ### Potential Enhancements
 
-- Let the user fine tune parameters of the analysis
+- Let the user fine-tune parameters of the analysis
 
 ---
 
