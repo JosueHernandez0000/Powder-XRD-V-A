@@ -74,7 +74,7 @@ Powder XRD VA 1.0.0/
 ├── raw_xy_data/
 │   └── your_data.xy       # XRD data to be analyzed
 |
-├── README.txt             # Documentation for the project.
+├── README.md             # Documentation for the project.
 ├── LICENSE     
 └── Powder_XRD_VA.exe      # Standalone .exe file
 ```
