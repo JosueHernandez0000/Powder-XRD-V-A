@@ -110,11 +110,13 @@ Powder XRD VA 1.0.0/
 - Peak deconvolution may fail if data is too noisy or peak is too close to the noise level (usually the case in low intensity peaks)
 - Handling closely spaced peaks (less than instrument resolution) can be challenging.
 - Limited support for asymmetric or skewed peaks outside of Pseudo-Voigt modeling.
+- Fixed axis from 10 to 90 degrees.
 
 
 ### Potential Enhancements
 
 - Let the user fine-tune parameters of the analysis
+- Dynamically detect scan range and scale axis accordingly
 
 ---
 
