@@ -84,6 +84,12 @@ Powder XRD VA 1.0.0/
 
 
 ## 5. Technical Details
+### Reference patterns 
+- The crystallographic information (peak position, peak intensity and miller indices) of the current reference pattern is stored in `reference_patterns.xlsx`. Information was obtained from the Crystallographic Open Database. You can add more reference patterns by simply:
+   - Create a new sheet in the Excel file
+   - Rename the sheet to match the name of your reference patterns
+   - Fill in the Excel sheet with the crystallographic information (please follow the same structure and column names as in the current file). 
+- Not following this instructions to add a new reference pattern will crash the program.
 
 ### Peak Detection
 - Initial peak detection is performed using a fixed value of sensitivity
