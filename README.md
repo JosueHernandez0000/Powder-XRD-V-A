@@ -27,7 +27,7 @@ This repository packs more than **1 000 lines of python code** into a standalone
 6. **FWHM calculation**: Calculates the Full Width at Half Maximum (FWHM) of each epak in the diffractogram.
 
 ## 3. Main Outputs
-The code is meant to be a quick and easy way to plot and visualize experimental XRD data. The main outputs of the program are the following plots:
+This tool is meant to be a quick and easy way to plot and visualize experimental XRD data. The main outputs of the program are the following plots:
 1. **XRD spectra with background**
 2. **XRD spectra without background**
 3. **Plots XRD with selected reference patterns**
