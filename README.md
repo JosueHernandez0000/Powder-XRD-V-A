@@ -1,5 +1,5 @@
-# XRD Data Analysis 
-# Automated-Fast-Simple
+#       >>>>>  POWDER XRD Data Analysis <<<<<
+#       >>>>>>  Automated-Fast-Simple <<<<<<<
 
 
 ## Overview
