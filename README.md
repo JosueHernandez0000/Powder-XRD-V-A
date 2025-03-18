@@ -8,8 +8,10 @@ This repository packs more than **1 000 lines of python code** into a standalone
 
 For questions, feature requests, bug reports, or collaboration opportunities, please contact the [**developer**](https://github.com/JosueHernandez0000).
 
-If you like the automated XRD data analysis tool, you can:
-[**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
+If you found this automated XRD data analysis tool helpful, you can show your support by:
+[**Buying me a coffee!**](https://buymeacoffee.com/josue.hernandez)
+
+Every coffee helps me stay awake to keep improving the tool, adding new features, and providing you with even better analysis capabilities.
 
 ### Table of Contents
 1. [Overview](#overview)
