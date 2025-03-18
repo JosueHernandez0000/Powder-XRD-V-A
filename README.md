@@ -122,7 +122,7 @@ The following features may come in a future release:
 
 ## 7. Contact
 
-For questions, feature requests, bug reports, or collaboration opportunities, please contact the developer.
+For questions, feature requests, bug reports, or collaboration opportunities, please contact the [**developer**]([https://buymeacoffee.com/josue.hernandez](https://github.com/JosueHernandez0000)).
 
 If you like the automated XRD data analysis tool, you can:
 [**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
