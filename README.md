@@ -101,7 +101,8 @@ Powder XRD VA 1.0.0/
 ### Profile Fitting
 - Fitting is performed using:
     - **Pseudo-Voigt Model:** Combination of Lorentzian and Gaussian profiles.
-    - **baseline correction:** 
+    - **baseline correction:** If the baseline is not zero, the baseline is adjusted based on the local noise level.
+    - 
 
 
 ### Convolution and Deconvolution
