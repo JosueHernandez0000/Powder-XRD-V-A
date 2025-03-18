@@ -6,6 +6,11 @@
 
 This repository packs more than **1 000 lines of python code** into a standalone executable for analyzing powder X-ray Diffraction (XRD) data. The program focuses on visualization of the experimental data, peak identification and deconvolution of overlapping peaks. The code supports multi-peak fitting using Pseudo-Voigt functions to handle overlapping peaks and perform automated peak characterization.
 
+For questions, feature requests, bug reports, or collaboration opportunities, please contact the [**developer**](https://github.com/JosueHernandez0000).
+
+If you like the automated XRD data analysis tool, you can:
+[**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
+
 ### Table of Contents
 1. [Overview](#overview)
 2. [Functionality](#functionality)
@@ -120,14 +125,7 @@ The following features may come in a future release:
 - Support `.csv` files
 
 
-## 7. Contact
-
-For questions, feature requests, bug reports, or collaboration opportunities, please contact the [**developer**](https://github.com/JosueHernandez0000).
-
-If you like the automated XRD data analysis tool, you can:
-[**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
-
----
+--
 
 ## 8. License
 
