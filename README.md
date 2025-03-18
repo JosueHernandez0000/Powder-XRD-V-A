@@ -93,11 +93,15 @@ Powder XRD VA 1.0.0/
 - Not following these instructions to add a new reference pattern will crash the program.
 
 ### Peak Detection
-- Initial peak detection is performed using a fixed value of sensitivity
+- Starting from version 1.0.3 the program lets the user specify the number of sections/windows to divide the diffractogram and specify the `sensisitivity` of each window.
+- Lower values of sensitivity (0.3) = More peaks are detected within a window
+- Higher values of sensitivity (1.5) = Fewer peaks are detected within a window
+- Suggestion: Start with window = 1 and sensisitivity = 1
 
 ### Profile Fitting
 - Fitting is performed using:
-    - **Pseudo-Voigt Model:** Combination of Lorentzian and Gaussian profiles, adaptable for asymmetric peaks.
+    - **Pseudo-Voigt Model:** Combination of Lorentzian and Gaussian profiles.
+    - **baseline correction:** 
 
 
 ### Convolution and Deconvolution
