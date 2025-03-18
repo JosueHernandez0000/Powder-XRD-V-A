@@ -1,5 +1,5 @@
-#       >>>>>  POWDER XRD Data Analysis <<<<<
-#       >>>>>>  Automated-Fast-Simple <<<<<<<
+#       POWDER XRD Data Analysis 
+#       (Automated-Fast-Simple) 
 
 
 ## Overview
@@ -123,6 +123,9 @@ The following features may come in a future release:
 ## 7. Contact
 
 For questions, feature requests, bug reports, or collaboration opportunities, please contact the developer.
+
+If you like the automated XRD data analysis tool, you can:
+[**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
 
 ---
 
