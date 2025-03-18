@@ -98,16 +98,11 @@ Powder XRD VA 1.0.0/
 - Higher values of sensitivity (1.5) = Fewer peaks are detected within a window
 - Suggestion: Start with window = 1 and sensisitivity = 1
 
-### Profile Fitting
+### Profile Fitting and peak deconvolution
 - Fitting is performed using:
     - **Pseudo-Voigt Model:** Combination of Lorentzian and Gaussian profiles.
     - **baseline correction:** If the baseline is not zero, the baseline is adjusted based on the local noise level.
-    - 
-
-
-### Convolution and Deconvolution
-- Multi-peak deconvolution is done through a multi-pseudo voigt approximation.
-- Peaks are iteratively fitted, with R² optimization to ensure the best-fit parameters.
+    - Peaks are iteratively fitted, with R² optimization to ensure the best-fit parameters.
 
 
 ## 6. Limitations and Areas for Improvement
