@@ -39,7 +39,7 @@ This tool is meant to be a quick and easy way to plot and visualize experimental
 
 - XRD spectrum with detected peaks:
 <div align="center">
-   <img src="plots/XRD_plots/XRD with peak detection.png" alt="XRD with peak detection" width="500">
+   <img src="plots/XRD_plots/XRD with peak detection_example.png" alt="XRD with peak detection_example" width="500">
 </div>
 
 - Example of Reference pattern obtained from the Crystallographic Open Database (COD):
