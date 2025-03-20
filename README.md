@@ -33,7 +33,7 @@ This tool is meant to be a quick and easy way to plot and visualize experimental
 2. **XRD spectra without background**
 3. **Plots XRD with selected reference patterns**
 4. **All peaks in the diffractogram**
-5. **All peak deconvolutions**: The plots show the multipseudo voigt fit/deconvolution with FWHM of the peaks
+5. **All peak deconvolutions**: The plots show the multi pseudo voigt fit/deconvolution with FWHM of the peaks
 
 ### Example Outputs
 
