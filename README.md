@@ -93,7 +93,7 @@ Powder XRD VA 1.0.0/
 - Not following these instructions to add a new reference pattern will crash the program.
 
 ### Peak Detection
-- Starting from version 1.0.3 the program lets the user specify the number of sections/windows to divide the diffractogram and specify the `sensisitivity` of each window.
+- Starting from version 1.0.3 the program lets the user specify the number of sections/windows to divide the diffractogram and specify the `sensitivity` of each window.
 - Lower values of sensitivity (0.3) = More peaks are detected within a window
 - Higher values of sensitivity (1.5) = Fewer peaks are detected within a window
 - Suggestion: Start with window = 1 and sensisitivity = 1
@@ -117,7 +117,7 @@ Powder XRD VA 1.0.0/
 
 ### Potential Enhancements
 The following features may come in a future release:
-- Let the user fine-tune parameters of the analysis
+- Let the user fine-tune the parameters of the analysis
 - Dynamically detect scan range and scale axis accordingly
 - Support `.csv` files
 
