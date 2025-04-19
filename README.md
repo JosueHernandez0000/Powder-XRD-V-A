@@ -97,7 +97,7 @@ Powder XRD VA 1.0.0/
 - Lower values of sensitivity (0.3) = More peaks are detected within a window
 - Higher values of sensitivity (1.5) = Fewer peaks are detected within a window
 - Suggestion: Start with window = 1 and sensisitivity = 1
-
+https://github.com/JosueHernandez0000/Powder-XRD-V-A/blob/main/README.md
 ### Profile Fitting and peak deconvolution
 - Fitting is performed using:
     - **Pseudo-Voigt Model:** Combination of Lorentzian and Gaussian profiles.
@@ -111,7 +111,6 @@ Powder XRD VA 1.0.0/
 - Peak deconvolution may fail if data is too noisy or peak is too close to the noise level (usually the case in low intensity peaks)
 - Handling closely spaced peaks (less than instrument resolution) can be challenging.
 - Limited support for asymmetric or skewed peaks outside of Pseudo-Voigt modeling.
-- Fixed axis from 10 to 90 degrees.
 - Only supports `.xy` files. 
 
 
